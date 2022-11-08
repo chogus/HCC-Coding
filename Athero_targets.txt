@@ -1,0 +1,47 @@
+Lex	Type	Regex	Direction	Unnamed: 4	Unnamed: 5	Unnamed: 6	Codes
+atherosclerosis	108_Vascular_Disease	atherosclerosis					
+atherosclerotic	108_Vascular_Disease	atherosclerotic					
+vascular calc	108_Vascular_Disease	vascular\scalc	 				
+arteriosclerotic	108_Vascular_Disease	arteriosclerotic	 				
+arteriosclerosis	108_Vascular_Disease	arteriosclerosis	 				
+arterial plaque	108_Vascular_Disease	arterial\splaque	 				
+calcified plaque	108_Vascular_Disease	calcified\splaque					
+calcific plaque	108_Vascular_Disease	calcific\splaque					
+emphysema 	111_Chronic_Obstructive_Pulmonary_Disease	emphysema 					
+fibroemphysematous	111_Chronic_Obstructive_Pulmonary_Disease	fibroemphysematous					
+emphysematous	111_Chronic_Obstructive_Pulmonary_Disease	emphysematous					
+compression fracture	169_Vertebral_Fractures_without_Spinal_Cord_Injury	compression\sfracture					
+gastrostomy	188_Artificial_Openings_for_Feeding_or_Elimination	gastrostomy					
+ileostomy	188_Artificial_Openings_for_Feeding_or_Elimination	ileostomy					
+colostomy	188_Artificial_Openings_for_Feeding_or_Elimination	colostomy					
+cystostomy	188_Artificial_Openings_for_Feeding_or_Elimination	cystostomy					
+cord edema	72_Spinal_Cord_Disorders_or_Injuries	cord\sedema					
+dialysis catheter	134_Dialysis_Status	dialysis\scatheter					
+peritoneal dialysis	134_Dialysis_Status	peritoneal\sdialysis\scatheter					
+renal transplant	186_Major_Organ_Transplant_or_Replacement_status	renal\stransplant					
+renal allograft	186_Major_Organ_Transplant_or_Replacement_status	renal\sallograft					
+PJP	6_Opportunistic_Infections	PJP					
+Pneumocystis jiroveci Pneumonia	6_Opportunistic_Infections	Pneumocystis\sjirovecisPneumonia					
+cirrhosis	28_Cirrhosis_of_Liver	cirrhosis					
+bowel obstruction	33_Intestinal_obstruction_or_perforation	bowel\sobstruction					
+stool ball	33_Intestinal_obstruction_or_perforation	stool\sball					
+bezoar	33_Intestinal_obstruction_or_perforation	bezoar					
+pancreatic calcifications	34_Chronic_Pancreatitis	pancreatic\scalcification					
+cardiomegaly	85_Congestive_Heart_Failure	cardiomegaly					
+pacemaker	85_Congestive_Heart_Failure	pacemaker					
+acute subarachnoid hemorrhage	99_Cerebral_Hemorrhage_Initial	acute\ssubarachnoid\shemorrhage					
+acute infarct	100_Ischemic_or_Unspecified_Stroke_Initial	acute\sinfarct					
+aspiration	114_Aspiration_and_Specified_Bacterial_Pnuemonias	aspiration					
+lobar pneumonia	"115_Pneumococcal_Pneumonia,_Empyema,_Lung_Abscess"	lobar\spneumonia					
+empyema	"115_Pneumococcal_Pneumonia,_Empyema,_Lung_Abscess"	empyema					
+adenocarcinoma of the lung	9_Lung_and_Other_Severe_Cancers	adenocarcinoma\sof\sthe\slung					
+lymphoma	10_Lymphoma_and_Other_Cancers	lymphoma					
+TURBT	"11_Colorectal,_Bladder,_and_Other_Cancers"	TURBT					
+Cystoprostatectomy	"11_Colorectal,_Bladder,_and_Other_Cancers"	Cystoprostatectomy					
+hemicolectomy	"11_Colorectal,_Bladder,_and_Other_Cancers"	hemicolectomy					
+renal cell carcinoma	"11_Colorectal,_Bladder,_and_Other_Cancers"	renal\scell\scarcinoma					
+renal neoplasm	"11_Colorectal,_Bladder,_and_Other_Cancers"	renal\sneoplasm					
+lumpectomy	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	lumpectomy					
+prostate neoplasm	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	prostate\sneoplasm					
+gleason	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	gleason					
+metastatic prostate	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	metastatic\sprostate					
