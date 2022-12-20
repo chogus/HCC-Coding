@@ -222,7 +222,6 @@ without	DEFINITE_NEGATED_EXISTENCE		forward
 without difficulty	PSEUDONEG		forward
 without sign	DEFINITE_NEGATED_EXISTENCE	without sign(s)?	forward
 worrisome	PROBABLE_EXISTENCE		forward
-#NAME?	DEFINITE_NEGATED_EXISTENCE		forward
 although	CONJ		terminate
 apart from	CONJ		terminate
 as a cause for	CONJ		terminate
