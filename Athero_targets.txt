@@ -45,3 +45,8 @@ lumpectomy	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	lumpectomy
 prostate neoplasm	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	prostate\sneoplasm					
 gleason	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	gleason					
 metastatic prostate	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	metastatic\sprostate					
+cortical atrophy	"52_Dementia without complication"	cortical\satrophy
+meningioma	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	meningioma
+parathyroid	"23_Other_significant_endocrine_and_metabolic_disorders"	parathyroid
+pancreatic calcification	"34_Chronic pancreatitis"	pancreatic\scalcification
+nodular hepatic	"28_Cirrhosis of liver"	nodular\shepatic
