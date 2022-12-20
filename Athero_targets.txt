@@ -44,3 +44,7 @@ renal neoplasm	"11_Colorectal,_Bladder,_and_Other_Cancers"	renal\sneoplasm
 lumpectomy	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	lumpectomy					
 prostate neoplasm	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	prostate\sneoplasm					
 gleason	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	gleason					
+cortical atrophy	52_Dementia_without_Complication	cortical\satrophy					
+meningioma	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	meningioma					
+parathyroid	23_Other_significant_endocrine_and_metabolic_disorders	parathyroid					
+nodular hepatic	28_Cirrhosis_of_Liver	nodular\shepatic					
