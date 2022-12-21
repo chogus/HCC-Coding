@@ -362,3 +362,4 @@ risk factor	FUTURE	risk factor(s)?	bidirectional
 favor	PROBABLE_EXISTENCE		bidirectional
 there is	DEFINITE_EXISTENCE		forward
 there is no	DEFINITE_NEGATED_EXISTENCE		forward
+is seen	DEFINITE_EXISTENCE		backwards
