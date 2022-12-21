@@ -48,3 +48,16 @@ cortical atrophy	52_Dementia_without_Complication	cortical\satrophy
 meningioma	"12_Breast,_Prostate,_and_Other_Cancers_and_Tumors"	meningioma					
 parathyroid	23_Other_significant_endocrine_and_metabolic_disorders	parathyroid					
 nodular hepatic	28_Cirrhosis_of_Liver	nodular\shepatic					
+COPD	111_Chronic_Obstructive_Pulmonary_Disease	COPD					
+amputation	"189_Amputation_Status,_Lower Limb_or_Amputation_Complication"	amputation					
+pacemaker	88_Specified_Heart_Arrhythmias	pacemaker					
+AICD	88_Specified_Heart_Arrhythmias	AICD					
+pressure ulcer	158_Pressure_Ulcer_of_Skin_with_Full_Thickness_Skin_Loss	pressure\sulcer					
+decubitus ulcer	158_Pressure_Ulcer_of_Skin_with_Full_Thickness_Skin_Loss	decubitus\sulcer					
+diabetic foot	106_Atherosclerosis_of_Extremity_with_Ulceration_or_Gangrene	diabetic\sfoot					
+crohn	35_Inflammatory_Bowel_Disease	crohn					
+ulcerative colitis	35_Inflammatory_Bowel_Disease	ulcerative\scolitis					
+rheumatoid	40_Rheumatoid_Arthritis_and_Inflammatory_Connective_Tissue_Disease	rheumatoid					
+multiple sclerosis	77_Multiple_Sclerosis	multiple\ssclerosis					
+demyelinating plaque	77_Multiple_Sclerosis	demyelinating\splaque					
+pulmonary edema	85_Congestive_Heart_Failure	pulmonary\sedema					
