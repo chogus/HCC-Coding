@@ -61,3 +61,10 @@ rheumatoid	40_Rheumatoid_Arthritis_and_Inflammatory_Connective_Tissue_Disease	rh
 multiple sclerosis	77_Multiple_Sclerosis	multiple\ssclerosis					
 demyelinating plaque	77_Multiple_Sclerosis	demyelinating\splaque					
 pulmonary edema	85_Congestive_Heart_Failure	pulmonary\sedema					
+subclavian artery stenosis	107_Vascular_Disease_with_Complications	subclavian\sartery\sstenosis					
+narrowing of the subclavian artery	107_Vascular_Disease_with_Complications	narrowing\sof\sthe\ssubclavian\sartery					
+focal dissection	107_Vascular_Disease_with_Complications	focal\sdissection					
+arterial dissection	107_Vascular_Disease_with_Complications	arterial\sdissection					
+aortic dissection	107_Vascular_Disease_with_Complications	aortic\sdissection					
+centrilobular emphysema	111_Chronic_Obstructive_Pulmonary_Disease	centrilobular\semphysema					
+paraseptal emphysema	111_Chronic_Obstructive_Pulmonary_Disease	paraseptal\semphysema					
